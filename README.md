@@ -29,19 +29,13 @@ project-directory/
    cd project-directory
    ```
 
-2. **Install Node.js dependencies:**
-
-   ```sh
-   npm install
-   ```
-
-3. **Start the server:**
+2. **Start the server:**
 
    ```sh
    node index.js
    ```
 
-4. **Open your browser and navigate to the following URLs:**
+3. **Open your browser and navigate to the following URLs:**
    - `http://localhost:8080` to view the home page
    - `http://localhost:8080/about` to view the about page
    - `http://localhost:8080/contact-me` to view the contact page
