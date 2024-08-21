@@ -2,9 +2,10 @@
 
 # Full Stack Developer Roadmap
 
-This project demonstrates a simple Node.js server that serves different pages about the Full Stack Developer Roadmap. It includes handling for `index.html`, `about.html`, `contact-me.html`, and a custom `404.html` for any undefined routes.
+This project demonstrates a simple Express server in Node.js that serves different pages about the Full Stack Developer Roadmap. It includes handling for `index.html`, `about.html`, `contact-me.html`, and a custom `404.html` for any undefined routes.
 
 ## Project Structure
+
 ```
 project-directory/
 │
@@ -14,6 +15,7 @@ project-directory/
 ├── contact-me.html
 └── 404.html
 ```
+
 ## Description
 
 - **Home Page (`index.html`)**: An overview of the Full Stack Developer Roadmap.
