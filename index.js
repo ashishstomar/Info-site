@@ -17,5 +17,5 @@ app.get("/contact-me", (req, res) => {
 });
 
 app.use((req, res) => {
-  res.sendFile("./404.html", { root: __dirname });
+  res.status(404).sendFile("./404.html", { root: __dirname });
 });
